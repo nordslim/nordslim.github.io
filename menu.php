@@ -37,7 +37,7 @@ navbar-light
     <ul class="navbar-nav mr-auto">
 
       <li class="nav-item active">
-         <a class="btn btn-outline-secondary" href='index.html' >Главная
+         <a class="btn btn-outline-secondary" href='index.php' >Главная
             <span class="sr-only">(current)</span>
          </a>
       </li>
